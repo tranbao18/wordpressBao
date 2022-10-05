@@ -8,12 +8,12 @@
 	>
 
 <channel>
-	<title>tranthienbao &#8211; My WordPress</title>
+	<title>tranthienbao &#8211; WordPress logo</title>
 	<atom:link href="http://localhost/myproject/wordpress/author/tranthienbao/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tranbao18.github.io/wordpressBao</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Wed, 07 Sep 2022 14:45:21 +0000</lastBuildDate>
-	<language>vi</language>
+	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -41,12 +41,12 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-9548da3 elementor-widget elementor-widget-heading" data-id="9548da3" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+			<style>/*! elementor - v3.7.6 - 15-09-2022 */
 .elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><span class="elementor-heading-title elementor-size-large">SUBCRIBE TO OUR NEWSLETTER</span>		</div>
 				</div>
 				<div class="elementor-element elementor-element-8065475 elementor-widget-divider--view-line_icon elementor-view-default elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="8065475" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+			<style>/*! elementor - v3.7.6 - 15-09-2022 */
 .elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#2c2c2c;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);-ms-flex-negative:0;flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:-webkit-box;display:-ms-flexbox;display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-bottom:0;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}.e-container>.elementor-widget-divider{width:var(--container-widget-width,100%);--flex-grow:var(--container-widget-flex-grow,0)}</style>		<div class="elementor-divider">
 			<span class="elementor-divider-separator">
 							<div class="elementor-icon elementor-divider__element">
@@ -57,7 +57,7 @@
 				</div>
 				<div class="elementor-element elementor-element-b032814 elementor-widget elementor-widget-text-editor" data-id="b032814" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+			<style>/*! elementor - v3.7.6 - 15-09-2022 */
 .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p style="text-align: center;">Get the latest report about the project and company profile..</p>						</div>
 				</div>
 				<div class="elementor-element elementor-element-8cf0934 elementor-button-align-center elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-form" data-id="8cf0934" data-element_type="widget" data-settings="{&quot;button_width&quot;:&quot;20&quot;,&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;_position&quot;:&quot;absolute&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
@@ -112,7 +112,7 @@
 				<category><![CDATA[Chưa phân loại]]></category>
 		<guid isPermaLink="false">https://tranbao18.github.io/wordpressBao/?p=107</guid>
 
-					<description><![CDATA[Slide 1 HeadingLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick HereSlide 2 HeadingLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick HereSlide 3 HeadingLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick Here Previous Next DID YOU KNOW? Mauris ullamcorper nibh quis leo ultrices in hendrerit velit tristiqueut augue in nulla lacinia bibendum liberoras &#8230; <p class="link-more"><a href="https://tranbao18.github.io/wordpressBao/myproject_501210511/" class="more-link">Read more<span class="screen-reader-text"> "MyProject_501210511"</span></a></p>]]></description>
+					<description><![CDATA[Slide 1 HeadingLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick HereSlide 2 HeadingLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick HereSlide 3 HeadingLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick Here Previous Next DID YOU KNOW? Mauris ullamcorper nibh quis leo ultrices in hendrerit velit tristiqueut augue in nulla lacinia bibendum liberoras [&#8230;]]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="107" class="elementor elementor-107">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-6a27df4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6a27df4" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -188,8 +188,8 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-52256e1 elementor-invisible elementor-widget elementor-widget-image" data-id="52256e1" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.7.4 - 31-08-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="150" height="150" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/6-150x150-1.jpg" class="attachment-large size-large" alt="" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />															</div>
+			<style>/*! elementor - v3.7.6 - 15-09-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="150" height="150" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/6-150x150-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 					</div>
 		</div>
@@ -197,7 +197,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-3f157a3 elementor-invisible elementor-widget elementor-widget-image" data-id="3f157a3" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="350" height="350" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/21-350x350-1.jpg" class="attachment-large size-large" alt="Lorem Ipsum" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />															</div>
+															<img width="350" height="350" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/21-350x350-1.jpg" class="attachment-large size-large" alt="Lorem Ipsum" loading="lazy" />															</div>
 				</div>
 					</div>
 		</div>
@@ -205,7 +205,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-66f873e elementor-invisible elementor-widget elementor-widget-image" data-id="66f873e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="150" height="150" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/9-150x150-1.jpg" class="attachment-large size-large" alt="" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />															</div>
+															<img width="150" height="150" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/9-150x150-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 					</div>
 		</div>
@@ -213,7 +213,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-844d2d6 elementor-invisible elementor-widget elementor-widget-image" data-id="844d2d6" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="150" height="150" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/13-150x150-1.jpg" class="attachment-large size-large" alt="" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />															</div>
+															<img width="150" height="150" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/13-150x150-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 					</div>
 		</div>
@@ -538,7 +538,7 @@ $9000</p>
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-2d8c8fd elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-image" data-id="2d8c8fd" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="300" height="300" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/61-350x350-1.jpg" class="attachment-medium size-medium" alt="" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />															</div>
+															<img width="300" height="300" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/61-350x350-1.jpg" class="attachment-medium size-medium" alt="" loading="lazy" />															</div>
 				</div>
 					</div>
 		</div>
@@ -598,7 +598,7 @@ $9000</p>
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-43fbadf elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-image" data-id="43fbadf" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="300" height="300" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/81-350x350-1.jpg" class="attachment-medium size-medium" alt="" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />															</div>
+															<img width="300" height="300" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/81-350x350-1.jpg" class="attachment-medium size-medium" alt="" loading="lazy" />															</div>
 				</div>
 					</div>
 		</div>
@@ -662,7 +662,7 @@ $9000</p>
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-08a58a1 elementor-invisible elementor-widget elementor-widget-image" data-id="08a58a1" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="350" height="350" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/51-350x350-1.jpg" class="attachment-large size-large" alt="" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />															</div>
+															<img width="350" height="350" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/51-350x350-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 					</div>
 		</div>
@@ -722,7 +722,7 @@ $9000</p>
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-b8adc3e elementor-invisible elementor-widget elementor-widget-image" data-id="b8adc3e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="350" height="350" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/25-350x350-1.jpg" class="attachment-large size-large" alt="" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />															</div>
+															<img width="350" height="350" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/25-350x350-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 					</div>
 		</div>
@@ -825,7 +825,7 @@ $9000</p>
 								<div class="elementor-element elementor-element-fbaa732 e-transform e-transform elementor-invisible elementor-widget elementor-widget-image" data-id="fbaa732" data-element_type="widget" data-settings="{&quot;_transform_skewX_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_transform_skewX_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_skewX_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_skewY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_skewY_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_skewY_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_skewX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_skewX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_skewX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_skewY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_skewY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_skewY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 																<a href="http://kodeforest.com/wp-demo/travel/layout/wp-content/uploads/2015/05/package-7.jpg">
-							<img width="350" height="350" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/package-7-350x350-1.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />								</a>
+							<img width="350" height="350" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/package-7-350x350-1.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" />								</a>
 															</div>
 				</div>
 				<div class="elementor-element elementor-element-1d778de elementor-invisible elementor-widget elementor-widget-heading" data-id="1d778de" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
@@ -843,7 +843,7 @@ $9000</p>
 								<div class="elementor-element elementor-element-58ad6b2 e-transform e-transform elementor-invisible elementor-widget elementor-widget-image" data-id="58ad6b2" data-element_type="widget" data-settings="{&quot;_transform_skewX_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_transform_skewX_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_skewX_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_skewY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_skewY_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_skewY_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_skewX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_skewX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_skewX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_skewY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_skewY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_skewY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 																<a href="http://kodeforest.com/wp-demo/travel/layout/wp-content/uploads/2015/05/package-6.jpg">
-							<img width="350" height="350" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/package-6-350x350-1.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />								</a>
+							<img width="350" height="350" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/package-6-350x350-1.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" />								</a>
 															</div>
 				</div>
 				<div class="elementor-element elementor-element-3166416 elementor-invisible elementor-widget elementor-widget-heading" data-id="3166416" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
@@ -860,7 +860,7 @@ $9000</p>
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-4be7235 elementor-invisible elementor-widget elementor-widget-image" data-id="4be7235" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="350" height="350" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/package-4-350x350-1.jpg" class="attachment-large size-large" alt="" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />															</div>
+															<img width="350" height="350" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/package-4-350x350-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-17a7884 elementor-invisible elementor-widget elementor-widget-heading" data-id="17a7884" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -876,7 +876,7 @@ $9000</p>
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-6675238 elementor-invisible elementor-widget elementor-widget-image" data-id="6675238" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="350" height="350" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/12-350x350-1.jpg" class="attachment-large size-large" alt="" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />															</div>
+															<img width="350" height="350" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/12-350x350-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-52a3f52 elementor-invisible elementor-widget elementor-widget-heading" data-id="52a3f52" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -905,7 +905,7 @@ $9000</p>
 				</div>
 				<div class="elementor-element elementor-element-f596775 elementor-widget elementor-widget-counter" data-id="f596775" data-element_type="widget" data-widget_type="counter.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+			<style>/*! elementor - v3.7.6 - 15-09-2022 */
 .elementor-counter .elementor-counter-number-wrapper{display:-webkit-box;display:-ms-flexbox;display:flex;font-size:69px;font-weight:600;line-height:1}.elementor-counter .elementor-counter-number-prefix,.elementor-counter .elementor-counter-number-suffix{-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;white-space:pre-wrap}.elementor-counter .elementor-counter-number-prefix{text-align:right}.elementor-counter .elementor-counter-number-suffix{text-align:left}.elementor-counter .elementor-counter-title{text-align:center;font-size:19px;font-weight:400;line-height:2.5}</style>		<div class="elementor-counter">
 			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
@@ -1078,7 +1078,7 @@ $9000</p>
 </div>			</div>
 			<div class="eael-testimonial-content eael-testimonial-inline-bio">
 							<div class="eael-testimonial-image">
-									<figure><img width="150" height="150" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/81-350x350-1.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure>
+									<figure><img width="150" height="150" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/81-350x350-1.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></figure>
 							</div>
 							<div class="bio-text"><p class="eael-testimonial-user">Lorem ipsum dolor</p><p class="eael-testimonial-user-company">Grek Ross, ThemeNector</p></div>
 							</div>
@@ -1108,7 +1108,7 @@ $9000</p>
 </div>			</div>
 			<div class="eael-testimonial-content eael-testimonial-inline-bio">
 							<div class="eael-testimonial-image">
-									<figure><img width="150" height="150" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/110-150x150-1.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure>
+									<figure><img width="150" height="150" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/110-150x150-1.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></figure>
 							</div>
 							<div class="bio-text"><p class="eael-testimonial-user">Lorem ipsum dolor</p><p class="eael-testimonial-user-company">Grek Ross, ThemeNector</p></div>
 							</div>
@@ -1138,7 +1138,7 @@ $9000</p>
 </div>			</div>
 			<div class="eael-testimonial-content eael-testimonial-inline-bio">
 							<div class="eael-testimonial-image">
-									<figure><img width="150" height="150" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/25-350x350-1.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure>
+									<figure><img width="150" height="150" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/25-350x350-1.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></figure>
 							</div>
 							<div class="bio-text"><p class="eael-testimonial-user">Lorem ipsum dolor</p><p class="eael-testimonial-user-company">Grek Ross, ThemeNector</p></div>
 							</div>
@@ -1158,7 +1158,7 @@ $9000</p>
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-03efe5f elementor-widget elementor-widget-image" data-id="03efe5f" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="193" height="144" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/partner1.jpg" class="attachment-large size-large" alt="" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />															</div>
+															<img width="193" height="144" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/partner1.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 					</div>
 		</div>
@@ -1166,7 +1166,7 @@ $9000</p>
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-33425de elementor-widget elementor-widget-image" data-id="33425de" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="193" height="144" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/partner2.jpg" class="attachment-large size-large" alt="" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />															</div>
+															<img width="193" height="144" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/partner2.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 					</div>
 		</div>
@@ -1174,7 +1174,7 @@ $9000</p>
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-8f30d9b elementor-widget elementor-widget-image" data-id="8f30d9b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="193" height="144" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/partner3.jpg" class="attachment-large size-large" alt="" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />															</div>
+															<img width="193" height="144" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/partner3.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 					</div>
 		</div>
@@ -1182,7 +1182,7 @@ $9000</p>
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-ad49d5b elementor-widget elementor-widget-image" data-id="ad49d5b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="193" height="144" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/partner4.jpg" class="attachment-large size-large" alt="" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />															</div>
+															<img width="193" height="144" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/partner4.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 					</div>
 		</div>
@@ -1190,7 +1190,7 @@ $9000</p>
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-50413e9 elementor-widget elementor-widget-image" data-id="50413e9" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="193" height="144" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/partner5.jpg" class="attachment-large size-large" alt="" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />															</div>
+															<img width="193" height="144" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/partner5.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 					</div>
 		</div>
@@ -1198,7 +1198,7 @@ $9000</p>
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-ab6cabb elementor-widget elementor-widget-image" data-id="ab6cabb" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="193" height="144" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/partner6.jpg" class="attachment-large size-large" alt="" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />															</div>
+															<img width="193" height="144" src="https://tranbao18.github.io/wordpressBao/wp-content/uploads/2022/08/partner6.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 					</div>
 		</div>
